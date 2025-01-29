@@ -1,5 +1,8 @@
+import Footer from './components/Footer'
 import Header from './components/Header'
 import Info from './components/Info'
+import Portfolio from './components/Portfolio'
+import Services from './components/Services'
 import UpperBanner from './components/UpperBanner'
 
 function App() {
@@ -9,7 +12,9 @@ function App() {
       <Header  />
       <UpperBanner />
       <Info />
-      <footer></footer>
+      <Services />
+      <Portfolio />
+      <Footer />
     </>
   )
 }
