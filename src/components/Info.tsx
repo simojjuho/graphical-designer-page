@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Info = () => {
   return (
     <div id='info' className='h-72 bg-[#efdf75]'>

@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Footer = () => {
   return (
     <div id='footer' className='min-w-full h-12 flex flex-row justify-center items-center'>
