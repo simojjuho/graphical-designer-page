@@ -1,6 +1,6 @@
 const Info = () => {
   return (
-    <div id='info' className='h-fit p-16 bg-[#efdf75]'>
+    <section id='info' className='h-fit p-16 bg-[#efdf75]'>
       <h2
         className="mb-12 text-4xl uppercase font-bold font-info text-center"
       >info</h2>
@@ -11,7 +11,7 @@ const Info = () => {
 
 </p>
       </div>
-    </div>
+    </section>
   )
 }
 

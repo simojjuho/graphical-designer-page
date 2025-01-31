@@ -1,8 +1,8 @@
 const Portfolio = () => {
   return (
-    <div id='portfolio' className='min-h-72'>
+    <section id='portfolio' className='min-h-72'>
       portfolio
-    </div>
+    </section>
   )
 }
 

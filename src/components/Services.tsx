@@ -1,8 +1,8 @@
 const Services = () => {
   return (
-    <div id='services' className='min-h-72 bg-[#1d1d1d]'>
+    <section id='services' className='min-h-72 bg-[#1d1d1d]'>
       SERVICES
-    </div>
+    </section>
   )
 }
 
