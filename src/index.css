@@ -2,6 +2,7 @@
 
 @theme {
   --font-banner-heading: "Playfair Display", serif !important;
+  --font-info: "Raleway", serif;
 }
 
 #root {
