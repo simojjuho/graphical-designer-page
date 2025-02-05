@@ -3,6 +3,8 @@
 @theme {
   --font-banner-heading: "Playfair Display", serif !important;
   --font-info: "Raleway", serif;
+  --color-yellow-accent: #efdf75;
+  --color-dark: #1d1d1d;
 }
 
 #root {
