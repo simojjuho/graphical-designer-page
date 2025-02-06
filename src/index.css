@@ -7,7 +7,17 @@
   --color-dark: #1d1d1d;
 }
 
+@layer {
+  h2 {
+    font-size: 3rem;
+  }
+}
+
 #root {
   margin: 0 auto;
   font-family: "proxima-nova", "raleway", sans-serif !important;
+}
+
+.content-80percent {
+  max-width: 80%;
 }
