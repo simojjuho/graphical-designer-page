@@ -2,7 +2,7 @@ const Info = () => {
   return (
     <section id='info' className='h-fit flex flex-col items-center p-36 bg-yellow-accent relative'>
       <h2
-        className="flex max-w-fit items-end justify-center relative mb-24 uppercase font-bold font-info text-center
+        className="text-on-light flex max-w-fit items-end justify-center relative mb-24 uppercase font-bold font-info text-center
         after:absolute after:h-0.5 after:w-20 after-border-solid 
         after:border-2 after:top-20
         "
