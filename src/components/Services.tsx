@@ -2,7 +2,7 @@ import ServiceCard from "./ServiceCard"
 
 const Services = () => {
   return (
-    <section id='services' className='min-h-fit text-white px-28 py-24 bg-dark flex flex-col items-center'>
+    <section id='services' className='min-h-fit text-white px-28 pt-24 pb-40 bg-dark flex flex-col items-center'>
       <h2
         className="flex text-[#AAAAAA] max-w-fit items-end justify-center relative mb-24 uppercase font-bold font-info text-center
         after:absolute after:h-0.5 after:w-20 after-border-solid 
